@@ -1,0 +1,25 @@
+{
+    "money_menu" : "Money",
+    "money_menu_desc" : "Manager your money.",
+    "money_reset_offshore" : "Reset offshore money",
+    "money_reset_offshore_desc" : "Reset ALL of your offshore money.",
+    "money_reset_spending" : "Reset spending cash",
+    "money_reset_spending_desc" : "Reset ALL of your spending cash back to 0.",
+    
+    "money_remove_1mil_offshore" : "Remove 1 million offshore",
+    "money_remove_158mil_offshore" : "Remove 15.8 million offshore",
+    "money_remove_100mil_offshore" : "Remove 100 million offshore",
+    "money_remove_1bil_offshore" : "Remove 1 billion offshore",
+    
+    "money_remove_1mil_spending" : "Remove 1 million spending cash",
+    "money_remove_158mil_spending" : "Remove 15.8 million spending cash",
+    "money_remove_100mil_spending" : "Remove 100 million spending cash",
+    "money_remove_1bil_spending" : "Remove 1 billion spending cash",
+
+    "money_add_1bil_offshore" : "Set 1 billion offshore",
+    
+    "money_add_1mil_spending" : "Add 1 million spending cash",
+    "money_add_158mil_spending" : "Add 15.8 million spending cash",
+    "money_add_100mil_spending" : "Add 100 million spending cash",
+    "money_add_1bil_spending" : "Add 1 billion spending cash",
+}

@@ -1,0 +1,121 @@
+{
+	"menu_id" : "money_menu",
+	"parent_menu_id" : "lua_mod_options_menu",
+	"title" : "money_menu",
+	"description" : "money_menu_desc",
+	"items" : [
+		{
+			"type" : "button",
+			"id" : "money_remove_1mil_offshore",
+			"title" : "money_remove_1mil_offshore",
+			"description" : "",
+			"callback" : "callback_money_remove_one_million_offshore"
+		},
+		{
+			"type" : "button",
+			"id" : "money_remove_158mil_offshore",
+			"title" : "money_remove_158mil_offshore",
+			"description" : "",
+			"callback" : "callback_money_remove_158_million_offshore"
+		},
+		{
+			"type" : "button",
+			"id" : "money_remove_100mil_offshore",
+			"title" : "money_remove_100mil_offshore",
+			"description" : "",
+			"callback" : "callback_money_remove_hundred_million_offshore"
+		},
+		{
+			"type" : "button",
+			"id" : "money_remove_1bil_offshore",
+			"title" : "money_remove_1bil_offshore",
+			"description" : "",
+			"callback" : "callback_money_remove_one_billion_offshore"
+		},
+		{
+			"type" : "button",
+			"id" : "money_remove_1mil_spending",
+			"title" : "money_remove_1mil_spending",
+			"description" : "",
+			"callback" : "callback_money_remove_one_million_spending"
+		},
+		{
+			"type" : "button",
+			"id" : "money_remove_158mil_spending",
+			"title" : "money_remove_158mil_spending",
+			"description" : "",
+			"callback" : "callback_money_remove_158_million_spending"
+		},
+		{
+			"type" : "button",
+			"id" : "money_remove_100mil_spending",
+			"title" : "money_remove_100mil_spending",
+			"description" : "",
+			"callback" : "callback_money_remove_hundred_million_spending"
+		},
+		{
+			"type" : "button",
+			"id" : "money_remove_1bil_spending",
+			"title" : "money_remove_1bil_spending",
+			"description" : "",
+			"callback" : "callback_money_remove_one_billion_spending"
+		},
+        {
+            "type" : "divider",
+            "size" : 10
+        },  
+		{
+			"type" : "button",
+			"id" : "money_add_1bil_offshore",
+			"title" : "money_add_1bil_offshore",
+			"description" : "",
+			"callback" : "callback_money_add_one_billion_offshore"
+		},
+		{
+			"type" : "button",
+			"id" : "money_add_1mil_spending",
+			"title" : "money_add_1mil_spending",
+			"description" : "",
+			"callback" : "callback_money_add_one_million_spending"
+		},
+		{
+			"type" : "button",
+			"id" : "money_add_158mil_spending",
+			"title" : "money_add_158mil_spending",
+			"description" : "",
+			"callback" : "callback_money_add_158_million_spending"
+		},
+		{
+			"type" : "button",
+			"id" : "money_add_100mil_spending",
+			"title" : "money_add_100mil_spending",
+			"description" : "",
+			"callback" : "callback_money_add_hundred_million_spending"
+		},
+		{
+			"type" : "button",
+			"id" : "money_add_1bil_spending",
+			"title" : "money_add_1bil_spending",
+			"description" : "",
+			"callback" : "callback_money_add_one_billion_spending"
+		},
+        {
+            "type" : "divider",
+            "size" : 10
+        },
+		{
+			"type" : "button",
+			"id" : "money_reset_spending",
+			"title" : "money_reset_spending",
+			"description" : "money_reset_spending_desc",
+			"callback" : "callback_money_reset_spending_cash"
+		},  
+		{
+			"type" : "button",
+			"id" : "money_reset_offshore",
+			"title" : "money_reset_offshore",
+			"description" : "money_reset_offshore_desc",
+			"callback" : "callback_money_reset_offshore"
+		} 
+	]
+}

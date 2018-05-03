@@ -4,8 +4,8 @@ Payday 2 offshore and cash money manager.
 
 Requires
 --------
-BLT 1.08+ (r15_r5) or later
-- https://github.com/JamesWilko/Payday-2-BLT/releases/tag/1.08
+BLT 2.0+ (r6_r16) or later
+- https://github.com/JamesWilko/Payday-2-BLT/releases/tag/2.0
 
 Installation
 ------------

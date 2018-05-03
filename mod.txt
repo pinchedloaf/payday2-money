@@ -1,13 +1,12 @@
 {
-    "name" : "Money Manager",
-    "description" : "Manages your money.",
-    "author" : "pinchedloaf",
-    "contact" : "pinchedloafs@gmail.com",
-    "version" : "0.1",
-    "hooks" : [  
-        {
-            "hook_id" : "lib/managers/menumanager",
-            "script_path" : "money.lua"
-        }
-    ]
+  "name" : "Money Manager",
+  "description" : "Manages your money.",
+  "author" : "pinchedloaf",
+  "contact" : "pinchedloafs@gmail.com",
+  "version" : "0.2",
+  "blt_version" : 2,
+  "hooks" : [{
+    "hook_id" : "lib/managers/menumanager",
+    "script_path" : "money.lua"
+  }]
 }
